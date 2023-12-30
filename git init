@@ -1,0 +1,23 @@
+[33mcommit 6a5a25906f85fad8ce6e5930cb246f43824136a7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AnujKaprawan <anujkp15@gmail.com>
+Date:   Sat Dec 30 13:12:08 2023 +0530
+
+    Simple commit
+
+[33mcommit 2283dc9ba181e793f81b60ebbda1bc2457f7da94[m
+Author: AnujKaprawan <anujkp15@gmail.com>
+Date:   Sat Dec 30 13:10:39 2023 +0530
+
+    Service interface layer modified
+
+[33mcommit d4fab6ffaea44eab551693330b8f36a27f697a67[m
+Author: AnujKaprawan <anujkp15@gmail.com>
+Date:   Sat Dec 30 13:01:45 2023 +0530
+
+    Model layer added
+
+[33mcommit 6ebe9657cca00ffd52597f5b1479d2af5d6b254c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: acciojob-2[bot] <123367150+acciojob-2[bot]@users.noreply.github.com>
+Date:   Sat Dec 30 07:16:18 2023 +0000
+
+    Initial commit
